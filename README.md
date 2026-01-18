@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 <!--
 **alexarcanjo2026/alexarcanjo2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
